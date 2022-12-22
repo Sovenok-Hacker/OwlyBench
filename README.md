@@ -1,6 +1,6 @@
 # OwlyBench
 Simple CPU Benchmark written in C
-![CPU](https://www.svgrepo.com/download/72002/cpu.svg)
+![CPU](/cpu.png)
 
 | CPU Name            | Result   |
 |---------------------|----------|
