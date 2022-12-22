@@ -1,6 +1,6 @@
 # OwlyBench
 Simple CPU Benchmark written in C
-![CPU](/cpu.png)
+![CPU](/logo.jpg)
 
 | CPU Name            | Result   |
 |---------------------|----------|
